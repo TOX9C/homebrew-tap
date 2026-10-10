@@ -1,6 +1,6 @@
 cask "athenas-core" do
-  version "3.4.0"
-  sha256 "61419832ddced95a15bee07773b9767133fec2e6875d1575e47d0a5b131a545c"
+  version "3.4.1"
+  sha256 "1766dc639016248d6bafc800f59b81f11f7b95aadcfeab2fab5aa4c205737e0b"
 
   # NOTE: the local DMG is "Athena's Core_<v>_aarch64.dmg", but GitHub
   # normalizes the asset name to dots on upload. On each release, bump
